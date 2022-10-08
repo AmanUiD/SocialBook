@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SocialBook</string>
+    <string name="log_in">Log In</string>
+    <string name="socialbook">SocialBook</string>
+    <string name="don_t_have_account">Don\'t have account?</string>
+    <string name="already_an_account">Already an Account</string>
+</resources>

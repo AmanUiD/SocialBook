@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2343681245",
+    "project_id": "socialbook-a60b4",
+    "storage_bucket": "socialbook-a60b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2343681245:android:a49a78e9a4fb0512826f34",
+        "android_client_info": {
+          "package_name": "com.aman.socialbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2343681245-1688o1qkh8l9emp6ul6usvmss5talbu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1cVdPaUavSgcn7oljsAeb3WJw966-wAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2343681245-1688o1qkh8l9emp6ul6usvmss5talbu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
